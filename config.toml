@@ -1,0 +1,4 @@
+baseURL = "https://giacomonazzaro.github.io/"
+languageCode = "en-us"
+title = "giacomo nazzaro"
+theme = "ananke"
